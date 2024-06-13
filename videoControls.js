@@ -1,4 +1,4 @@
-let bplVideos = document.querySelectorAll("[bpl-video");
+let bplVideos = document.querySelectorAll("[bpl-video]");
 
 bplVideos.forEach((video) => {
   let videoEl = video.querySelector("video");
